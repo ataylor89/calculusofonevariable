@@ -1,0 +1,9 @@
+Chapter 1 Section 1
+Problem 1. Let A = {1,5,7,10} and B={2,7,11,14}. Determine A ∪ B, A ∩ B, A \ B, B \ A, (A \ B) ∪ B, and (A \ B) ∪ (A ∩ B).
+Solution. 
+A ∪ B = {1,2,5,7,10,11,14} 
+A ∩ B = {7}
+A \ B = {1,5,10}
+B \ A = {2,11,14}
+(A \ B) ∪ B = {1,2,5,7,10,11,14}
+(A \ B) ∪ (A ∩ B) = {1,5,7,10} 
