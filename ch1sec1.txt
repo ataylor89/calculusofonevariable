@@ -7,3 +7,7 @@ A \ B = {1,5,10}
 B \ A = {2,11,14}
 (A \ B) ∪ B = {1,2,5,7,10,11,14}
 (A \ B) ∪ (A ∩ B) = {1,5,7,10} 
+Problem 2. The preceding problem should suggest two set identities. Write them, and illustrate them with diagrams. 
+Solution.
+(A \ B) ∪ B = A ∪ B
+(A \ B) ∪ (A ∩ B) = A
