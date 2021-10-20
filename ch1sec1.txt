@@ -23,3 +23,11 @@ B ∩ C = {}
 A ∪ B = {1, 2, 3, 4}
 A' ∩ B = {3}
 (A' ∪ C) ∩ B = {3} 
+Problem 5. Illustrate the De Morgan law, (A union B)' = A' intersection B',  via Venn diagrams
+Solution. 
+De Morgan's law can be illustrated with a Venn diagram.
+A' intersection B' is illustrated by the intersection of diagonal lines with opposite slope
+The crossed diagonal lines do not intersect A union B
+The crossed diagonal lines intersect the complement of A union B
+The crossed diagonal lines with opposite slope illustrate A' intersection B'
+The intersecting diagonal lines illustrate A' intersection B'
